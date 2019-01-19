@@ -145,3 +145,25 @@ lista_jogadas(Tab,ListaJogadas):-
  P7 is Pos-21,P8 is Pos+21,
  L=[P1,P2,P3,P4,P5,P6,P7,P8],
  findall(X, (member(X,L),X >= 0,X < 100),ListaJogadas).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
